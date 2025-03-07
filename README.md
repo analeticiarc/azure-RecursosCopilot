@@ -26,7 +26,8 @@ Esses destinos combinam **beleza natural, cultura rica e hospitalidade calorosa*
 
 ### 2️⃣ Geração de imagem  
 _Imagem de um casal viajando nos Lençóis Maranhenses (MA) gerada pela IA:_  
-*(insira a imagem gerada aqui)*  
+![um casal viajando nos lençóis maranhenses (1)](https://github.com/user-attachments/assets/2bc58b33-6877-4d87-bb86-c525a88d668c)
+  
 
 ### 3️⃣ Código da calculadora em C  
 ```c
