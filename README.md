@@ -1,4 +1,4 @@
-#Azure-RecursosCopilot
+##Azure-RecursosCopilot
 
 Este projeto faz parte da Prática 3 do curso Serviços Cloud com foco em IA: Explorando os Recursos de IA Generativa com Copilot e OpenAI.
 
